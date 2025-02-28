@@ -23,4 +23,4 @@
 |!["diagrama Sigleton"](/UML/FactoryUML.jpg)
 
 ## Diagrama Decorator
-|!["diagrama Sigleton"](/UML/DecoratorUML.jpg) ARREglarAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+|!["diagrama Sigleton"](/UML/DecoratorUML.jpg)
