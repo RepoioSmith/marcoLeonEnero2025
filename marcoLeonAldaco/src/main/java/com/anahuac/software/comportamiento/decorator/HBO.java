@@ -6,7 +6,7 @@ public class HBO extends Decorator {
     }
 
     public String getDescripcion() {
-        return servicio.getDescripcion() + "+ Netflix ";
+        return servicio.getDescripcion() + "+ HBO ";
     }
 
     public double costo() {
