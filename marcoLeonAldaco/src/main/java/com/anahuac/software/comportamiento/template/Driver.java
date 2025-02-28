@@ -13,11 +13,8 @@
             String mensaje = "mi mensaje";
 
             loggerCSV.log(fecha, hora, tipo, mensaje);
-            
             loggerJSON.log(fecha, hora, tipo, mensaje); 
-            
             loggerTXT.log(fecha, hora, tipo, mensaje);
-            System.out.println();
 
         }
     }
