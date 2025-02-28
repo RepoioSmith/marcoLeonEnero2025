@@ -1,7 +1,7 @@
 # Marco Leon y Paolo Dueñas
 
 ## diagrama Parcial 1, Problema 3 usando Template Method
-|!["diagrama Problema 3"](/UML/Parcial1Problema3Template.jpg)
+|!["diagrama Problema 3"](/UML/Parcial1Problema3Template.png)
 
 
 ## Diagrama Sigleton
