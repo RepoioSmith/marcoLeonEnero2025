@@ -23,7 +23,7 @@ public class ObserverWhatsapp implements Observer {
     @Override
     public void update(double price) {
         if (isOn && price <= targetPrice) {
-            System.out.println("📱 WhatsApp Notification: The price of the article has dropped to $" + price);
+            System.out.println("Notificacion de WhatsApp el precio del articulo ha bajado a $" + price);
         }
     }
 }

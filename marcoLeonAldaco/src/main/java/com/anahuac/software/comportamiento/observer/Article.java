@@ -33,7 +33,7 @@ public class Article implements Subject {
 
     @Override
     public void notifyObservers() {
-        for (Observer observer : observers) {
+        for (Observer observer : new ArrayList<>(observers)) {
             observer.update(price);
         }
     }
