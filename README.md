@@ -6,6 +6,9 @@
 ## Diagrama Parcial 1, Problema 3 usando Template Method
 |!["Diagrama Problema 3"](/UML/Parcial1Problema3Template.png)
 
+## Diagrama Strategy
+|!["diagrama Sigleton"](/UML/StrategyUML.jpg)
+
 ## Diagrama Template
 |!["diagrama Sigleton"](/UML/TemplateUML.jpg)
 
